@@ -6,7 +6,7 @@
 - **데이터** : 영국 리테일 업체의 1년 동안의 데이터 from kaggle([링크](https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci/data))
 - **`Language / Tool`  : `Python` `Pandas` `Numpy` `Matplotlib` `Seaborn` `Google colab`**
 - **과정 및 결과 :** 1️⃣전처리 및 EDA  ⇒  2️⃣RFM 지표 추가, RFM 테이블 생성  ⇒  3️⃣고객군 세분화, 인사이트 도출 및 활용방안 제안
-    - **주요 전처리 및 EDA :** 도메인을 고려한 ****데이터에 대한 탐색과 이상치/결측치 제거, 데이터를 RFM segmentation에 필요한 형태로 만듦.
+    - **주요 전처리 및 EDA :** 도메인을 고려한 데이터에 대한 탐색과 이상치/결측치 제거, 데이터를 RFM segmentation에 필요한 형태로 만듦.
         - 결측치/이상치 제거, 데이터 특성 탐색(Country 수, 총 고객 수, 총 물품 수, 고객별 평균 구매 횟수 등)
     - **RFM 지표 추가 및 고객군 세분화**
         - RFM이란, 고객별로 얼마나 최근에(Recency), 얼마나 자주(Frequency), 얼마나 많은 금액(Monetary)을 지출했는지에 따라 고객들의 분포를 확인하거나 그룹(또는 등급)을 나누어 분류하는 분석 기법을 말한다.
