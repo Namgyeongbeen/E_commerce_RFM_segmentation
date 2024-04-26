@@ -25,16 +25,17 @@
 - **고객군 세분화 결과 및 인사이트 도출**
     
     
-    ![2010/12 ~ 2011/12 고객 수 변화 양상. 11년 12월에 들어서 급감한다.](https://prod-files-secure.s3.us-west-2.amazonaws.com/9b5786d3-fddc-4a86-92f6-3c0275253038/82c947aa-225b-42ff-8308-6c9c65e0a043/Untitled.png)
-    
+    ![Untitled](https://github.com/Namgyeongbeen/E_commerce_RFM_segmentation/assets/152850843/590b553b-69e6-426c-9d9b-ad8911162de4)
     2010/12 ~ 2011/12 고객 수 변화 양상. 11년 12월에 들어서 급감한다.
-    
-    ![2010/12 ~ 2011/12 거래 수 변화 양상. 11년 12월에 들어서 급감한다.](https://prod-files-secure.s3.us-west-2.amazonaws.com/9b5786d3-fddc-4a86-92f6-3c0275253038/df01f0e0-7cf6-4c11-8f50-e9e1fdead697/Untitled.png)
-    
+
+
+
+    ![Untitled (1)](https://github.com/Namgyeongbeen/E_commerce_RFM_segmentation/assets/152850843/dfd423bb-0c68-433d-9d64-810425a2b94a)
     2010/12 ~ 2011/12 거래 수 변화 양상. 11년 12월에 들어서 급감한다.
-    
-    ![2010/12 ~ 2011/12 전체 100% 중 각 고객군의 비율 변화. 붉은색은 RFM score가 좋은 Strong 고객군이다. 11년 12월에 급증하여 전체의 98%를 차지하게 된다.](https://prod-files-secure.s3.us-west-2.amazonaws.com/9b5786d3-fddc-4a86-92f6-3c0275253038/f48f963d-e397-4a38-949d-e171170edbe1/Untitled.png)
-    
+
+
+
+    ![Untitled](https://github.com/Namgyeongbeen/E_commerce_RFM_segmentation/assets/152850843/b56e6da6-1936-43fd-a458-451b09f29e1a)    
     2010/12 ~ 2011/12 전체 100% 중 각 고객군의 비율 변화. 붉은색은 RFM score가 좋은 Strong 고객군이다. 11년 12월에 급증하여 전체의 98%를 차지하게 된다.
     
     - **해석**
